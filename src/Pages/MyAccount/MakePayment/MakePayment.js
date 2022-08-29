@@ -43,7 +43,7 @@ export const MakePayment = () => {
             }
           }}
         >
-					 <div class="form-check form-switch">
+					 <div className="form-check form-switch">
             <input className="form-check-input input__checkbox" type="checkbox" />
           </div>
 				</div>
