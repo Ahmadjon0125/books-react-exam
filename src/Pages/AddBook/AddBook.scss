@@ -1,0 +1,28 @@
+.authlab {
+  cursor: pointer;
+  width: 328px;
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 36px;
+  color: #ffffff;
+  padding: 5px;
+  background: #152540;
+  border-radius: 99px;
+  text-align: center;
+}
+
+.bookInput {
+  display: none;
+}
+
+.BackAuth {
+	position: absolute;
+	top: 20px;
+	left: 10px;
+	list-style-type: none;
+	font-size: 20px;
+	color: #464e5f;
+	
+}
